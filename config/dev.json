@@ -1,0 +1,5 @@
+{
+    "database": {
+        "uri": "mongodb+srv://db_user_1:db_user_1_pass@cluster0.dmcwa.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
